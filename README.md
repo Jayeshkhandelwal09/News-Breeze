@@ -4,6 +4,12 @@
 
 ![News Breeze Demo](https://img.shields.io/badge/Status-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.11-blue) ![React](https://img.shields.io/badge/React-18-61dafb) ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688)
 
+## ✨ ScreenShots
+
+<img width="1470" alt="Screenshot 2025-06-04 at 3 54 36 AM" src="https://github.com/user-attachments/assets/911f5492-9497-406a-8710-7a2e7d8a7cd5" />
+
+
+
 ## ✨ Features
 
 ### 🎭 **Celebrity Voice Synthesis**
