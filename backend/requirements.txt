@@ -1,0 +1,31 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# HTTP Requests and Web Scraping
+requests==2.31.0
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+
+# AI and Machine Learning (Python 3.12 compatible)
+transformers==4.40.0
+torch>=2.2.0
+tokenizers>=0.15.0
+safetensors>=0.4.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+typing-extensions>=4.5.0
+
+# Audio Processing (basic)
+numpy>=1.24.0
+
+# Note: Removed sentencepiece and accelerate due to Python 3.12 compilation issues
+# The app will work without these - just with slightly less optimized text processing
+
+# Note: TTS library temporarily removed due to Python 3.12 compatibility issues
+# We'll add it back when it's updated
+# For now, voice synthesis will be disabled but everything else will work 
